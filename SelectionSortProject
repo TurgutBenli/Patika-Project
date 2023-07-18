@@ -23,7 +23,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 Average case: Aradığımız sayının ortada olması
 
 
-Sort [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+Soru: [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
 [7,3,5,8,2,9,4,15,6] n
 [2,3,5,8,7,9,4,15,6] n-1
